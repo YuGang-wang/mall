@@ -14,7 +14,7 @@ export default {
 
 <style scoped>
 .navbar {
-  display: flex;
+  display: flex;  
   height: 44px;
   line-height: 44px;
 
